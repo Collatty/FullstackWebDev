@@ -1,5 +1,5 @@
 module.exports = (req, res, next) => {
-  if (!req.res) {
+  if (!req.user) {
     return res.status(401).send({ error: "log in first" });
   }
   next();
