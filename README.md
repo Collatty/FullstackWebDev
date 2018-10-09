@@ -1,7 +1,18 @@
-# Course on Udemy
+![NodeDiploma](./assets/NodeDiploma.png)
 
-https://www.udemy.com/node-with-react-fullstack-web-development/
+##Topics covered
 
-## Latest deployment
+- Oauth2
+- MongoDB
+- React
+- Redux
+- Express
+- Sendgrid
+- Stripe
+- Heroku
 
-https://agile-mesa-53430.herokuapp.com/
+..and much more
+
+[Course link](https://www.udemy.com/node-with-react-fullstack-web-development/)
+
+[Latest deployment](https://agile-mesa-53430.herokuapp.com/)
